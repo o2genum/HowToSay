@@ -1,14 +1,18 @@
 <resources>
     <string name="app_name">How to Say</string>
 
-    <string name="title_section1">Pronunciations</string>
-    <string name="title_section2">History</string>
-    <string name="title_section3">Favorites</string>
+    <string name="pronunciations">Pronunciations</string>
+    <string name="history">History</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_example">Example action</string>
+    <string name="search_in_the_searchbar">Enter a word in the search bar above\nand get its pronunciations</string>
+    <string name="no_pronunciations_found">No pronunciations found</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id_testing">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6177896127480474/3333970367</string>
+    <string name="license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnI5ljci5KvaFxZaoLaasqg/Zbue8XUjoTwBsgVoJWmAtIfy+cacappJBU4SfjU778c6FhbfAge4T+A95EZUvS/0b79hQlEG+L1HLR7OQ/qb5+5NFymcWDuvduO4XmZdGxnI1iCkO5vwwZzJxplnoHbrCJvWiIs5XwJgmDeho2qvIc/UJnek0k6Gtr7fPA2vJVQBJYESEsQR/dwziznMKhw8c+IUH3BXQTuQ9ij9xWGv9hhZHay0AXmJQl5nXKPlp8HKLYzmsPO/2xt0j1sUNqEnGee0hGO9f8fTP+INl5xx+59Gj0bXHERm74kMoN9yGIbLpapvv2RRmOMgQv7kmOwIDAQAB</string>
+    <string name="turn_ads_off">Turn ads off</string>
+    <string name="rate_the_app">Rate the app</string>
 </resources>

@@ -42,7 +42,8 @@
                 android:paddingLeft="4dp"
                 android:paddingRight="4dp"
                 android:scrollbars="vertical"
-                recycler_view:layoutManager="android.support.v7.widget.LinearLayoutManager" />
+                recycler_view:layoutManager="android.support.v7.widget.GridLayoutManager"
+                recycler_view:spanCount="2" />
         </RelativeLayout>
 
     </android.support.v4.widget.SwipeRefreshLayout>

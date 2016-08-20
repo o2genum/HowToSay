@@ -10,8 +10,6 @@ import android.support.v7.widget.SearchView;
 public abstract class SearchableFragment extends Fragment implements SearchView.OnQueryTextListener,
         SearchView.OnSuggestionListener {
 
-    protected static final String ARG_SECTION_NUMBER = "section_number";
-
     @Override
     public boolean onQueryTextSubmit(String query) {
         return false;
@@ -30,12 +28,5 @@ public abstract class SearchableFragment extends Fragment implements SearchView.
     @Override
     public boolean onSuggestionClick(int position) {
         return false;
-    }
-
-    @Override
-    public void onAttach(Activity activity) {
-        super.onAttach(activity);
-        ((MainActivity) activity).onSectionAttached(
-                getArguments().getInt(ARG_SECTION_NUMBER));
     }
 }
