@@ -1,5 +1,7 @@
 # How To Say
 
+<a href="https://youtu.be/rzFZ-LR49Kw">► Watch video</a>
+
 <p>
 This is a pronunciation dictionary, crowdsourced by people.
 You can listen to records by people from all over the world, and hear the authentic accent of native speakers. More than 300 languages. From English, German, French, Italian, Spanish, and Portuguese to the rarest ones.
