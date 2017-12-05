@@ -7,7 +7,7 @@
     <string name="navigation_drawer_open">Abrir gaveta de navegação</string>
     <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
 
-    <string name="search_in_the_searchbar">Insira uma palavra na barra de busca acima\ne veja suas pronúncias</string>
+    <string name="search_in_the_searchbar">Insira uma palavra na barra de busca acima\ne obtenha as pronúncias</string>
     <string name="no_pronunciations_found">Nenhuma pronúncia encontrada</string>
 
     <string name="banner_ad_unit_id_testing">ca-app-pub-3940256099942544/6300978111</string>
