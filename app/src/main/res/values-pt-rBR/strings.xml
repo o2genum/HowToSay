@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">How to Say</string>
+
+    <string name="pronunciations">Pronúncias</string>
+    <string name="history">Histórico</string>
+
+    <string name="navigation_drawer_open">Abrir gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+
+    <string name="search_in_the_searchbar">Insira uma palavra na barra de busca acima\ne obtenha as pronúncias</string>
+    <string name="no_pronunciations_found">Nenhuma pronúncia encontrada</string>
+
+    <string name="banner_ad_unit_id_testing">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6177896127480474/3333970367</string>
+    <string name="license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnI5ljci5KvaFxZaoLaasqg/Zbue8XUjoTwBsgVoJWmAtIfy+cacappJBU4SfjU778c6FhbfAge4T+A95EZUvS/0b79hQlEG+L1HLR7OQ/qb5+5NFymcWDuvduO4XmZdGxnI1iCkO5vwwZzJxplnoHbrCJvWiIs5XwJgmDeho2qvIc/UJnek0k6Gtr7fPA2vJVQBJYESEsQR/dwziznMKhw8c+IUH3BXQTuQ9ij9xWGv9hhZHay0AXmJQl5nXKPlp8HKLYzmsPO/2xt0j1sUNqEnGee0hGO9f8fTP+INl5xx+59Gj0bXHERm74kMoN9yGIbLpapvv2RRmOMgQv7kmOwIDAQAB</string>
+    <string name="turn_ads_off">Desligar anúncios</string>
+    <string name="rate_the_app">Avaliar o App</string>
+</resources>
